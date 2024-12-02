@@ -1,0 +1,24 @@
+{
+    "flowers": [
+        {
+            "path": "flowers\\daisy\\african_daisy_yellow.jpeg",
+            "color": "yellow",
+            "type": "daisy"
+        },
+        {
+            "path": "flowers\\daisy\\daisy_white.jpeg",
+            "color": "white",
+            "type": "daisy"
+        },
+        {
+            "path": "flowers\\rose\\pink_rose.jpeg",
+            "color": "rose",
+            "type": "rose"
+        },
+        {
+            "path": "flowers\\rose\\red_rose.jpeg",
+            "color": "rose",
+            "type": "rose"
+        }
+    ]
+}
