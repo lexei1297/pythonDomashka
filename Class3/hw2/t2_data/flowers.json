@@ -1,24 +1,184 @@
 {
     "flowers": [
         {
-            "path": "flowers\\daisy\\african_daisy_yellow.jpeg",
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/cars/hatchback/grey_toyota.jpeg",
+            "color": "toyota",
+            "type": "hatchback"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/cars/hatchback/red_mazda.jpeg",
+            "color": "mazda",
+            "type": "hatchback"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/cars/hatchback/subaru.jpeg",
+            "color": "subaru",
+            "type": "hatchback"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/cars/hatchback/typical_vw.jpeg",
+            "color": "vw",
+            "type": "hatchback"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/cars/sedan/emerald_bmw.jpeg",
+            "color": "bmw",
+            "type": "sedan"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/cars/suv/another_suv_toyota.jpeg",
+            "color": "toyota",
+            "type": "suv"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/cars/suv/suv_toyota.jpeg",
+            "color": "toyota",
+            "type": "suv"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/daisy/african_daisy_yellow.jpeg",
             "color": "yellow",
             "type": "daisy"
         },
         {
-            "path": "flowers\\daisy\\daisy_white.jpeg",
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/daisy/another_daisy_pink.jpeg",
+            "color": "pink",
+            "type": "daisy"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/daisy/daisy_white.jpeg",
             "color": "white",
             "type": "daisy"
         },
         {
-            "path": "flowers\\rose\\pink_rose.jpeg",
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/daisy/just_another_daisy_blue.jpeg",
+            "color": "blue",
+            "type": "daisy"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/peony/black.jpeg",
+            "color": "black",
+            "type": "peony"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/peony/flowers_white.jpeg",
+            "color": "white",
+            "type": "peony"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/peony/flower_white.jpeg",
+            "color": "white",
+            "type": "peony"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/peony/peony_violet.jpeg",
+            "color": "violet",
+            "type": "peony"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/peony/peony_white.jpeg",
+            "color": "white",
+            "type": "peony"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/peony/rose.jpeg",
             "color": "rose",
+            "type": "peony"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/peony/yellow.jpeg",
+            "color": "yellow",
+            "type": "peony"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/rose/blue.jpeg",
+            "color": "blue",
             "type": "rose"
         },
         {
-            "path": "flowers\\rose\\red_rose.jpeg",
-            "color": "rose",
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/rose/flower_orange.jpeg",
+            "color": "orange",
             "type": "rose"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/rose/flower_red.jpeg",
+            "color": "red",
+            "type": "rose"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/rose/flower_violet.jpeg",
+            "color": "violet",
+            "type": "rose"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/rose/pink.jpeg",
+            "color": "pink",
+            "type": "rose"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/rose/red.jpeg",
+            "color": "red",
+            "type": "rose"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/rose/rose_black.jpeg",
+            "color": "black",
+            "type": "rose"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/rose/rose_pink.jpeg",
+            "color": "pink",
+            "type": "rose"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/rose/rose_white.jpeg",
+            "color": "white",
+            "type": "rose"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/rose/rose_yellow.jpeg",
+            "color": "yellow",
+            "type": "rose"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/tulip/dark_dark_violet.jpeg",
+            "color": "violet",
+            "type": "tulip"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/tulip/dark_violet.jpeg",
+            "color": "violet",
+            "type": "tulip"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/tulip/flower_yellow.jpeg",
+            "color": "yellow",
+            "type": "tulip"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/tulip/red.jpeg",
+            "color": "red",
+            "type": "tulip"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/tulip/tulip_red.jpeg",
+            "color": "red",
+            "type": "tulip"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/tulip/violet.jpeg",
+            "color": "violet",
+            "type": "tulip"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/tulip/white.jpeg",
+            "color": "white",
+            "type": "tulip"
+        },
+        {
+            "path": "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/tulip/yellow.jpeg",
+            "color": "yellow",
+            "type": "tulip"
         }
     ]
 }

@@ -1,22 +1,22 @@
 class StringList:
     def __init__(self, *args):
-        self._data = [str(arg) for arg in args]
+        # Initialize an empty list to store strings
+        self.data = []
+        # Convert all input arguments to strings and add to the list
+        for item in args:
+            self.data.append(str(item))
 
     def __iter__(self):
-        return iter(self._data)
+        # Return an iterator for the list
+        return iter(self.data)
 
-    def __len__(self):
-        return len(self._data)
+    def __repr__(self):
+        # Provide a string representation of the list
+        return f"StringList({self.data})"
 
-    def __getitem__(self, index):
-        return self._data[index]
 
-    def __str__(self):
-        return str(self._data)
-
-my_string_list = StringList(3, 4.0, ["d", "f", "y"])
+# Usage example
+my_string_list = StringList(1, 1.0, ["a", "b", "c"])
 
 for el in my_string_list:
     assert type(el) == str
-
-print(my_string_list)

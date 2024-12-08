@@ -2,7 +2,6 @@ from typing import List, Union
 import requests
 from bs4 import BeautifulSoup
 
-
 def get_wiki_info(keyword: str, max_num_sentences: int = 10, max_sentence_length: int = 10) -> Union[List[str], None]:
     url = f"https://simple.wikipedia.org/wiki/{keyword}"
     try:
@@ -39,4 +38,4 @@ def get_wiki_info(keyword: str, max_num_sentences: int = 10, max_sentence_length
 
 
 # Usage example
-print(get_wiki_info("Python", max_num_sentences=2, max_sentence_length=4))
+print(get_wiki_info("Neurolinguistic programming", max_num_sentences=2, max_sentence_length=4))
