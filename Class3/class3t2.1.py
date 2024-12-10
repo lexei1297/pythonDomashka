@@ -2,8 +2,8 @@ import os
 import json
 
 
-def convert_to_json(path_to_dataset: str = "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers",
-                    json_path: str = "E:/folder_for_PY_hw/pythonDomashka/Class3/hw2/t2_data/flowers/flowers.json") -> str:
+def convert_to_json(path_to_dataset: str = "hw2/t2_data/flowers",
+                    json_path: str = "hw2/t2_data/flowers/flowers.json") -> str:
     # Dictionary to hold the data
     dataset_dict = {"flowers": []}
 
